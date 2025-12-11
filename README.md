@@ -1,4 +1,4 @@
-# halfadder-halfsubtracter
+[rtl.pdf](https://github.com/user-attachments/files/24108865/rtl.pdf)# halfadder-halfsubtracter
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 
@@ -27,8 +27,12 @@ Program:
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:J.MINHAJ AHAMED RegisterNumber: 25006694
 RTL Schematic
 [rtl.pdf](https://github.com/user-attachments/files/24108753/rtl.pdf)
+[rtl.pdf](https://github.com/user-attachments/files/24108906/rtl.pdf)
+
 
 Output Timing Waveform:
 [wave img.bmp](https://github.com/user-attachments/files/24108726/wave.img.bmp)
+[wave img.bmp](https://github.com/user-attachments/files/24108912/wave.img.bmp)
+
 
 Result: Thus, the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
