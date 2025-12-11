@@ -1,4 +1,4 @@
-[rtl.pdf](https://github.com/user-attachments/files/24108865/rtl.pdf)# halfadder-halfsubtracter
+# halfadder-halfsubtracter
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 
